@@ -8,6 +8,29 @@ hr{
     border-width: 5px;
     width: 6%;
 }
-h1, h3 {
-    color: #3fc1c9;
+h1{
+    color:#66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    text-align: center;
+}
+h2{
+    color:#66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    text-align: center;   
+    font-weight: normal;
+    line-height: 2px;
+}
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+a{
+    color: #11999E;
+}
+span{
+    text-decoration: underline;
 }
